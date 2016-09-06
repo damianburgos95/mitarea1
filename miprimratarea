@@ -1,0 +1,50 @@
+1.	¿Qué es un servidor?
+Programa capaz de atender solicitudes y enviar respuestas
+2. ¿Qué es un protocolo en informática? 
+Protocolo es un conjunto de reglas que permite la comunicación entre dos o más entidades para transmitir información
+3¿Qué web Servidor utiliza el protocolo http para enviar y recibir?       
+Solicitudes/paquetes 
+4 ¿Que es un cliente web? 
+Un cliente web es aquella aplicación que hace una solicitud a un servidor web 
+5. ¿Cuál es el cliente web por excelencia?
+Google Chrome
+6. ¿Qué es HTML?
+ Es un lenguaje de marcación que utiliza etiquetas para poder estructurar un documento de ese tipo. 
+7. ¿Que son las etiquetas?  
+Las etiquetas son fragmentos de textos rodeados por <> que se usan para definir la estructura de un archivo HTML
+ 8. ¿Cuáles son las diferencias entre las etiquetas h1-h6? 
+Estas etiquetas son utilizadas para los títulos/subtítulos de un texto, van decreciendo en tamaño a medida que los números que acompañan a la h aumenta.
+ 9. ¿Con que etiqueta se agrega una imagen en un documento HTML? 
+Con la siguiente etiqueta: <img src=""> entre comillas va origen donde se ubica la imagen en cuestión. 
+10. ¿Con que etiqueta se agrega un video en un documento HTML? 
+Con la siguiente: [<video src=""></video>] de vuelta el source del video va insertado dentro de las comillas 
+11. ¿Con que etiqueta se agrega un sonido Fácil?
+Se utiliza la etiqueta [<audio src="aqui va el link del audio"></audio>] 
+
+
+12. ¿Con que atributo se indica la imagen que se utiliza dentro de una etiqueta de imagen? 
+Aquí directamente nos referimos al atributo src="" que en otras palabras es source o fuente. 
+13. ¿Cómo se indica al navegador que el documento está escrito en inglés?
+ En el inicio, al iniciar la apertura de la etiqueta HTML se escribe el siguiente código: <html lang = "en"> 
+14. ¿Qué es una lista ordenada?
+Una lista ordenada o <ol> </ol> es una etiqueta que ordena con números un determinado texto rodeado por estas etiquetas 
+15. Que es una lista no ordenada? 
+Una lista no ordenada o <ul/></ul> es una lista que en vez de utilizar números, utiliza viñetas, de vuelta se convierte en lista cada texto rodeado con estas etiquetas. 
+16. ¿Cómo se indica un párrafo? 
+Con la etiqueta <p>escriba aquí el párrafo</p> 
+17. ¿Cómo se indica la negrita, cursiva, subrayado, tachado, subíndice y superíndice? 
+Para negrita se utiliza <strong>aqui el texto en negrita</strong>, para cursiva se utiliza la etiqueta <em>..</em>, subrayado <u>..</u>, subindice utiliza <sub>..</sub>, tachado utilza <strike>..</strike> y finalmente superindice utiliza <sup>..</sup>.
+ 18 ¿Que es git?
+ Git es un software de control de versiones, en otras palabras se utiliza para programar de manera ordenada, ya sea individualmente o en equipo. 
+19. ¿Qué es github?
+ Github es un repositorio que aloja proyectos de desarrollo colaborativo esencialmente.
+ 20. ¿Qué es clonar un repo, cual comando se utiliza? 
+Es copiar todo el repositorio remoto o alojado en la nube a tu maquina se utiliza el comando git clone [url de lo que se desea clonar] 
+21. Que es un Conmit?
+ Un Conmit es el comando utilizado guardar el archivo en el repositorio: git Commit [nombre del archivo] 
+22 ¿Que es un push?
+ Es enviar tu archivo a repositorios remotos alojados en la nube. 
+23 ¿Que es la rama master?
+ Es la rama por default de Git. 
+24. ¿Cuál es la función de doctype?
+Especifica al navegador tipo de archivo pueden ser html, css, etcView all of README.md
